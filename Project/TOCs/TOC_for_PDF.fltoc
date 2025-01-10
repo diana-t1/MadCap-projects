@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/B_Feature Topics/Front_page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="reset"
+    ComputeToc="false"
+    ReplaceMergeNode="false">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Feature Topics/Table_of_Contents.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ChapterNumberReset="reset"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ComputeToc="false"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      ReplaceMergeNode="false"
+      AutoEndOnLeftPage="disabled"
+      PageLayout="/Content/Resources/PageLayouts/NewPageLayout.flpgl">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/B_Feature Topics/Glossary.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        ChapterNumberReset="reset"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ComputeToc="false"
+        ReplaceMergeNode="false"
+        AutoEndOnLeftPage="disabled" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/B_Feature Topics/Explore.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        ChapterNumberReset="reset"
+        ChapterNumber=""
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ComputeToc="false"
+        ReplaceMergeNode="false"
+        AutoEndOnLeftPage="disabled" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/B_Feature Topics/England.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="reset"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        ChapterNumberFormat="decimal"
+        ChapterNumber="1"
+        AutoEndOnLeftPage="disabled" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/B_Feature Topics/China.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        AutoEndOnLeftPage="disabled" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/B_Feature Topics/Iran.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        AutoEndOnLeftPage="disabled" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/B_Feature Topics/Bolivia.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        AutoEndOnLeftPage="disabled" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/B_Feature Topics/Finland.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        AutoEndOnLeftPage="disabled" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/B_Feature Topics/Ethiopia.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        AutoEndOnLeftPage="disabled" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/B_Feature Topics/Canada.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        BreakType="chapter"
+        StartSection="false"
+        PageNumberReset="continue"
+        AutoEndOnLeftPage="disabled" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

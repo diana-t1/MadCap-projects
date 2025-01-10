@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="Glossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Curriculum</Term>
+    </Terms>
+    <Definition
+      Link="">A set of courses and their content offered at a school or university. It outlines the subjects and materials to be taught, the objectives to be achieved, and the methods of assessment used to evaluate student progress.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term3"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Literacy Rate</Term>
+    </Terms>
+    <Definition
+      Link="">The percentage of people within a specific population who can read and write at a designated age level. These rates are often used as indicators of educational attainment and development within a country or region.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term4"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Personalized learning experience</Term>
+    </Terms>
+    <Definition
+      Link="">An educational approach that tailors instruction to meet the individual needs, interests, and abilities of each student.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term6"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>School grade</Term>
+    </Terms>
+    <Definition
+      Link="">A level of education that students progress through, typically based on their age and academic achievement. Each grade represents a year of schooling, with specific learning objectives and curriculum standards that students are expected to meet before advancing to the next grade.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term8"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Dropout Rate</Term>
+    </Terms>
+    <Definition
+      Link="">The percentage of students who leave school before completing their education. These rates are often used to measure the effectiveness of an education system and identify areas where improvements are needed to keep students engaged and enrolled.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term9"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Decentralized Funding</Term>
+    </Terms>
+    <Definition
+      Link="">The allocation of financial resources to local or regional authorities rather than a central authority. This approach allows for more tailored and responsive use of funds, as local entities can address specific needs and priorities within their communities.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term11"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Boarding school</Term>
+    </Terms>
+    <Definition
+      Link="">An educational institution where students live on campus during the school term. These schools provide not only academic instruction but also accommodation, meals, and extracurricular activities, creating a comprehensive environment for learning and personal development.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term12"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Agro-pastoral</Term>
+    </Terms>
+    <Definition
+      Link="">A way of life or a farming system that combines both agriculture and livestock herding. This approach allows communities to cultivate crops and raise animals, providing a diverse and sustainable means of livelihood.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term13"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Educational stage</Term>
+    </Terms>
+    <Definition
+      Link="">A specific phase in a student's academic journey, defined by their age and the curriculum they follow. It marks a distinct period of learning with set objectives and assessments, helping to structure and track educational progress.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term14"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Bilingual Education</Term>
+    </Terms>
+    <Definition
+      Link="">An instructional approach that involves teaching academic content in two languages. This method aims to promote proficiency in both the students' native language and a second language, enhancing their linguistic and cognitive skills.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term15"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Key Stage</Term>
+    </Terms>
+    <Definition
+      Link="">A phase in the education system in England, defined by the age of students and the curriculum they follow.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>
